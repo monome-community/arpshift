@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "presets">
+	<slot number = "1">
+		<pattr name = "lane10_note" value = "57" />
+		<pattr name = "lane11_note" value = "53" />
+		<pattr name = "lane12_note" value = "50" />
+		<pattr name = "lane13_note" value = "48" />
+		<pattr name = "lane14_note" value = "43" />
+		<pattr name = "lane15_note" value = "36" />
+		<pattr name = "lane1_note" value = "84" />
+		<pattr name = "lane2_note" value = "81" />
+		<pattr name = "lane3_note" value = "79" />
+		<pattr name = "lane4_note" value = "76" />
+		<pattr name = "lane5_note" value = "74" />
+		<pattr name = "lane6_note" value = "72" />
+		<pattr name = "lane7_note" value = "60" />
+		<pattr name = "lane8_note" value = "64" />
+		<pattr name = "lane9_note" value = "60" />
+		<patcher name = "lane[14]">
+			<pattr name = "5-lanelength" value = "" />
+			<pattr name = "5-lanenotes" value = "" />
+			<pattr name = "5-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[13]">
+			<pattr name = "1-lanelength" value = "" />
+			<pattr name = "1-lanenotes" value = "" />
+			<pattr name = "1-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[12]">
+			<pattr name = "2-lanelength" value = "" />
+			<pattr name = "2-lanenotes" value = "" />
+			<pattr name = "2-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[11]">
+			<pattr name = "3-lanelength" value = "" />
+			<pattr name = "3-lanenotes" value = "" />
+			<pattr name = "3-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[10]">
+			<pattr name = "4-lanelength" value = "" />
+			<pattr name = "4-lanenotes" value = "" />
+			<pattr name = "4-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[9]">
+			<pattr name = "6-lanelength" value = "" />
+			<pattr name = "6-lanenotes" value = "" />
+			<pattr name = "6-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[8]">
+			<pattr name = "7-lanelength" value = "" />
+			<pattr name = "7-lanenotes" value = "" />
+			<pattr name = "7-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "pitch">
+			<pattr name = "pitch-matrix" value = "" />
+		</patcher>
+		<patcher name = "note">
+			<pattr name = "note-matrix" value = "" />
+		</patcher>
+		<patcher name = "lane[7]">
+			<pattr name = "13-lanelength" value = "" />
+			<pattr name = "13-lanenotes" value = "" />
+			<pattr name = "13-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[6]">
+			<pattr name = "9-lanelength" value = "" />
+			<pattr name = "9-lanenotes" value = "" />
+			<pattr name = "9-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[5]">
+			<pattr name = "10-lanelength" value = "" />
+			<pattr name = "10-lanenotes" value = "" />
+			<pattr name = "10-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[4]">
+			<pattr name = "11-lanelength" value = "" />
+			<pattr name = "11-lanenotes" value = "" />
+			<pattr name = "11-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[3]">
+			<pattr name = "12-lanelength" value = "" />
+			<pattr name = "12-lanenotes" value = "" />
+			<pattr name = "12-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[2]">
+			<pattr name = "14-lanelength" value = "" />
+			<pattr name = "14-lanenotes" value = "" />
+			<pattr name = "14-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[1]">
+			<pattr name = "15-lanelength" value = "" />
+			<pattr name = "15-lanenotes" value = "" />
+			<pattr name = "15-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane">
+			<pattr name = "8-lanelength" value = "" />
+			<pattr name = "8-lanenotes" value = "" />
+			<pattr name = "8-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "length">
+			<pattr name = "length-matrix" value = "" />
+		</patcher>
+		<patcher name = "serialosc">
+			<pattr name = "u550012798" value = "" />
+			<pattr name = "deviceid" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "lane10_note" value = "57" />
+		<pattr name = "lane11_note" value = "53" />
+		<pattr name = "lane12_note" value = "50" />
+		<pattr name = "lane13_note" value = "48" />
+		<pattr name = "lane14_note" value = "43" />
+		<pattr name = "lane15_note" value = "36" />
+		<pattr name = "lane1_note" value = "84" />
+		<pattr name = "lane2_note" value = "81" />
+		<pattr name = "lane3_note" value = "79" />
+		<pattr name = "lane4_note" value = "76" />
+		<pattr name = "lane5_note" value = "74" />
+		<pattr name = "lane6_note" value = "72" />
+		<pattr name = "lane7_note" value = "60" />
+		<pattr name = "lane8_note" value = "64" />
+		<pattr name = "lane9_note" value = "60" />
+		<patcher name = "lane[14]">
+			<pattr name = "5-lanelength" value = "" />
+			<pattr name = "5-lanenotes" value = "" />
+			<pattr name = "5-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[13]">
+			<pattr name = "1-lanelength" value = "" />
+			<pattr name = "1-lanenotes" value = "" />
+			<pattr name = "1-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[12]">
+			<pattr name = "2-lanelength" value = "" />
+			<pattr name = "2-lanenotes" value = "" />
+			<pattr name = "2-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[11]">
+			<pattr name = "3-lanelength" value = "" />
+			<pattr name = "3-lanenotes" value = "" />
+			<pattr name = "3-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[10]">
+			<pattr name = "4-lanelength" value = "" />
+			<pattr name = "4-lanenotes" value = "" />
+			<pattr name = "4-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[9]">
+			<pattr name = "6-lanelength" value = "" />
+			<pattr name = "6-lanenotes" value = "" />
+			<pattr name = "6-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[8]">
+			<pattr name = "7-lanelength" value = "" />
+			<pattr name = "7-lanenotes" value = "" />
+			<pattr name = "7-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "pitch">
+			<pattr name = "pitch-matrix" value = "" />
+		</patcher>
+		<patcher name = "note">
+			<pattr name = "note-matrix" value = "" />
+		</patcher>
+		<patcher name = "lane[7]">
+			<pattr name = "13-lanelength" value = "" />
+			<pattr name = "13-lanenotes" value = "" />
+			<pattr name = "13-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[6]">
+			<pattr name = "9-lanelength" value = "" />
+			<pattr name = "9-lanenotes" value = "" />
+			<pattr name = "9-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[5]">
+			<pattr name = "10-lanelength" value = "" />
+			<pattr name = "10-lanenotes" value = "" />
+			<pattr name = "10-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[4]">
+			<pattr name = "11-lanelength" value = "" />
+			<pattr name = "11-lanenotes" value = "" />
+			<pattr name = "11-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[3]">
+			<pattr name = "12-lanelength" value = "" />
+			<pattr name = "12-lanenotes" value = "" />
+			<pattr name = "12-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[2]">
+			<pattr name = "14-lanelength" value = "" />
+			<pattr name = "14-lanenotes" value = "" />
+			<pattr name = "14-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane[1]">
+			<pattr name = "15-lanelength" value = "" />
+			<pattr name = "15-lanenotes" value = "" />
+			<pattr name = "15-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "lane">
+			<pattr name = "8-lanelength" value = "" />
+			<pattr name = "8-lanenotes" value = "" />
+			<pattr name = "8-pitch_offest" value = "" />
+		</patcher>
+		<patcher name = "length">
+			<pattr name = "length-matrix" value = "" />
+		</patcher>
+		<patcher name = "serialosc">
+			<pattr name = "u550012798" value = "" />
+			<pattr name = "deviceid" value = "" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
