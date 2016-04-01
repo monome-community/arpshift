@@ -2,7 +2,7 @@
 
 A melodic, interval based, poly-rhythmic arpeggiator.
 
-**Created by**: Edward Loveall
+**Created by**: [Edward Loveall](https://github.com/edwardloveall)
 
 ![](arpshift-screenshot.png)
 
